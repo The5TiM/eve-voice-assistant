@@ -65,7 +65,7 @@ EVE is a desktop application that combines speech recognition, natural language 
 
 ## See It In Action
 
-
+https://github.com/user-attachments/assets/f0d5de70-8eff-4e22-aee6-35135dc275f3
 
 ## Project Structure
 
